@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PsReservation</string>
+    <string name="pax">Number of Pax:</string>
+    <string name="name">Name:</string>
+    <string name="Number">Phone number:</string>
+    <string name="ResetAll">Reset</string>
+    <string name="MakeReservation">Confirm Reservation</string>
+    <string name ="cbConfirm">Confirm and please check the box if everything is ok</string>
+</resources>
